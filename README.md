@@ -10,3 +10,5 @@
 6. Specialize and Create Blogs
 
 > Most Important: **Learn in Public**
+
+Source : [AssemblyAI](https://www.youtube.com/watch?v=wtolixa9XTg)
